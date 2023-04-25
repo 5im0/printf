@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *
+ * edited file
  * Return: Always 0
  */
 int main(void)
